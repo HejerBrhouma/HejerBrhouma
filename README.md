@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HejerBrhouma
-- 👀 I’m a senior full stack developer in Symfony PHP, Angular
+- 👀 I’m a senior full stack developer in PHP, Angular
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 email: hejerbnrhouma@gmail.com
 
